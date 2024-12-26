@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Krishna-kg732">
                     <img src="https://avatars.githubusercontent.com/u/177772748?v=4" width="100px;" alt="Krishna Gupta"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
+                    <sub><b>Krishna Gupta</b></sub>
                 </a>
             </td>
             <td align="center">
